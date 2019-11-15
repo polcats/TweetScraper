@@ -1,2 +1,2 @@
-# TweetScraper
- A twitter scraping application
+# TwitterScraper
+ Twitter Scraper Program using Tweepy
